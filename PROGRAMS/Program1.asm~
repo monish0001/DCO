@@ -1,2 +1,0 @@
-MVI B,05H ;get 05 in register B
-HLT       ;stop

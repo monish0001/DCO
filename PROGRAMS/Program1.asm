@@ -1,3 +1,0 @@
-MVI A 05
-MOV B,A
-HLT
